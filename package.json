@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-project",
+  "version": "1.0.0",
+  "description": "Kash's professional portfolio project to display data science projects and technical competencies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AakashSudhakar/portfolio-project.git"
+  },
+  "keywords": [
+    "portfolio"
+  ],
+  "author": "Aakash \"Kash\" Sudhakar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AakashSudhakar/portfolio-project/issues"
+  },
+  "homepage": "https://github.com/AakashSudhakar/portfolio-project#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
