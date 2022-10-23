@@ -4,6 +4,7 @@
   "description": "Kash's professional portfolio project to display data science projects and technical competencies.",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon scripts/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
