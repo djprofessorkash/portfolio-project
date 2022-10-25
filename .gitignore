@@ -5,3 +5,8 @@
 # Node Modules
 node_modules/
 */node_modules/
+
+# Disused Scripting Files
+*.js
+*/*.js
+scripts/
